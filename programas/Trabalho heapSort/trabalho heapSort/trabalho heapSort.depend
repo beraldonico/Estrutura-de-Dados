@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1498873580 source:c:\users\nicob\desktop\estrutura de dados 1\programas\trabalho heapsort\trabalho heapsort\heapsort.c
+	"HeapSort.h"
+
+1498867191 c:\users\nicob\desktop\estrutura de dados 1\programas\trabalho heapsort\trabalho heapsort\heapsort.h
+
+1498873592 source:c:\users\nicob\desktop\estrutura de dados 1\programas\trabalho heapsort\trabalho heapsort\main.c
+	<stdio.h>
+	<stdlib.h>
+	"HeapSort.h"
+

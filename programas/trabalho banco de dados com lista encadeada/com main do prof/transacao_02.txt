@@ -1,0 +1,12 @@
+Remove Nome = Guido;
+
+Busca Curso = Ufologia;
+
+Busca Curso = Direito;
+
+Insere Chick Hicks;300000000;001.002.003-04;Direito;02/02/1902;50000.00;
+
+Insere Doc Hudson;550550550;005.005.005-01;Direito;10/10/1700;100000.00;
+
+Busca Curso= Ufologia;
+

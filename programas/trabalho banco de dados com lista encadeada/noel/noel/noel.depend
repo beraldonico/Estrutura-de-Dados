@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1493147533 source:c:\users\nicob\desktop\noel\noel\aluno.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"aluno.h"
+
+1493147559 c:\users\nicob\desktop\noel\noel\aluno.h
+

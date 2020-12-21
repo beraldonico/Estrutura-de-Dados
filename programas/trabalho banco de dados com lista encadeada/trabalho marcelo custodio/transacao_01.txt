@@ -1,0 +1,12 @@
+Insere Lightning McQueen; 987654;123.123.123-00; Ufologia; 13/13/2013 ; 100000.00  ;
+
+Insere Tow Mater;123456;321.321.321-99;Ufologia;01/01/1901;-100.00;
+
+Insere Guido;10101010;001.001.001-00;Engenharia Mecânica;10/10/1910;5000.00;
+
+Insere Luigi;22325458;001.001.002-01;Pneumologia;11/11/1911;3000.00;
+
+Insere Mack;02020202;021.021.021-21;Engenharia Mecânica;15/15/1989;1200.00;
+
+Insere Strip Weathers;999999999;999.999.999-99;Educação Física;31/12/1800;200000.00;
+

@@ -1,0 +1,13 @@
+"C:\Users\nicob\Desktop\Estrutura de dados 1\programas\trabalho banco de dados com lista encadeada\com main do prof\bin\Debug\trabalho.exe"
+transacao_01.txt
+transacao_02.txt
+transacao_03.txt
+
+"C:\Users\nicob\Desktop\Estrutura de dados 1\programas\trabalho banco de dados com lista encadeada\com main do prof\bin\Debug\trabalho.exe" ./a.out transacao_01.txt
+
+user:~/code$ ./a.out transacao_01.txt
+
+"C:\Users\nicob\Desktop\Estrutura de dados 1\programas\trabalho banco de dados com lista encadeada\com main do prof\bin\Debug\trabalho.exe" transacao_01.txt
+
+C:\Users\nicob\Desktop\Estrutura de dados 1\programas\trabalho banco de dados com lista encadeada\com main do prof>bin\Debug\trabalho.exe transacao_01.txt
+

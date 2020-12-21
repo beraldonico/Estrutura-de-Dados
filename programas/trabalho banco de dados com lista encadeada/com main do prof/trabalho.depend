@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1492386171 source:c:\users\nicob\desktop\estrutura de dados 1\trabalho 1 final\trabalho\main.c
+	<stdarg.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Alunos.h"
+	"Lista.h"
+
+1492386232 c:\users\nicob\desktop\estrutura de dados 1\trabalho 1 final\trabalho\alunos.h
+
+1492387293 c:\users\nicob\desktop\estrutura de dados 1\trabalho 1 final\trabalho\lista.h
+
+1492387126 source:c:\users\nicob\desktop\estrutura de dados 1\trabalho 1 final\trabalho\alunos.c
+	"Alunos.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1492387251 source:c:\users\nicob\desktop\estrutura de dados 1\trabalho 1 final\trabalho\lista.c
+	"Alunos.h"
+	"Lista.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1492840385 source:c:\users\nicob\desktop\estrutura de dados 1\programas\trabalho banco de dados com lista encadeada\com main do prof\alunos.c
+	"Alunos.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1492961357 c:\users\nicob\desktop\estrutura de dados 1\programas\trabalho banco de dados com lista encadeada\com main do prof\alunos.h
+
+1492960813 source:c:\users\nicob\desktop\estrutura de dados 1\programas\trabalho banco de dados com lista encadeada\com main do prof\lista.c
+	"Alunos.h"
+	"Lista.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1492961363 c:\users\nicob\desktop\estrutura de dados 1\programas\trabalho banco de dados com lista encadeada\com main do prof\lista.h
+
+1492988828 source:c:\users\nicob\desktop\estrutura de dados 1\programas\trabalho banco de dados com lista encadeada\com main do prof\main.c
+	<stdarg.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Alunos.h"
+	"Lista.h"
+
+1492840385 source:d:\hd\documentos\ufsc\5 semestre\estrutura de dados 1\programas\trabalho banco de dados com lista encadeada\com main do prof\alunos.c
+	"Alunos.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1492961357 d:\hd\documentos\ufsc\5 semestre\estrutura de dados 1\programas\trabalho banco de dados com lista encadeada\com main do prof\alunos.h
+
+1498395718 source:d:\hd\documentos\ufsc\5 semestre\estrutura de dados 1\programas\trabalho banco de dados com lista encadeada\com main do prof\lista.c
+	"Alunos.h"
+	"Lista.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1492961363 d:\hd\documentos\ufsc\5 semestre\estrutura de dados 1\programas\trabalho banco de dados com lista encadeada\com main do prof\lista.h
+
+1492988828 source:d:\hd\documentos\ufsc\5 semestre\estrutura de dados 1\programas\trabalho banco de dados com lista encadeada\com main do prof\main.c
+	<stdarg.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Alunos.h"
+	"Lista.h"
+

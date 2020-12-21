@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1498135504 source:c:\users\mirtins\desktop\3ª fase\estrutura de dados\trabalho 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Arvore.h"
+	"Ordem.h"
+
+1498132529 c:\users\mirtins\desktop\3ª fase\estrutura de dados\trabalho 3\ordem.h
+	<stdio.h>
+	<stdlib.h>
+	"Arvore.h"
+
+1498135216 source:c:\users\mirtins\desktop\3ª fase\estrutura de dados\trabalho 3\ordem.c
+	<stdio.h>
+	<stdlib.h>
+	"Ordem.h"
+
+1498135749 source:c:\users\mirtins\desktop\3ª fase\estrutura de dados\trabalho 3\arvore.c
+	<stdio.h>
+	<stdlib.h>
+	"Arvore.h"
+
+1498135749 c:\users\mirtins\desktop\3ª fase\estrutura de dados\trabalho 3\arvore.h
+	<stdio.h>
+	<stdlib.h>
+
+1498135749 source:c:\users\nicob\desktop\estrutura de dados 1\programas\trabalho arvore binaria de busca\mirts\arvore.c
+	<stdio.h>
+	<stdlib.h>
+	"Arvore.h"
+
+1498135749 c:\users\nicob\desktop\estrutura de dados 1\programas\trabalho arvore binaria de busca\mirts\arvore.h
+	<stdio.h>
+	<stdlib.h>
+
+1498136092 source:c:\users\nicob\desktop\estrutura de dados 1\programas\trabalho arvore binaria de busca\mirts\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Arvore.h"
+	"Ordem.h"
+
+1498132529 c:\users\nicob\desktop\estrutura de dados 1\programas\trabalho arvore binaria de busca\mirts\ordem.h
+	<stdio.h>
+	<stdlib.h>
+	"Arvore.h"
+
+1498135216 source:c:\users\nicob\desktop\estrutura de dados 1\programas\trabalho arvore binaria de busca\mirts\ordem.c
+	<stdio.h>
+	<stdlib.h>
+	"Ordem.h"
+

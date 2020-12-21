@@ -1,0 +1,13 @@
+10 10
+1 1
+8 8
+HHHHHHHHHH
+H H   H  H
+H   H   HH
+HHH HHHHHH
+H        H
+HH HHHHH H
+H  HH    H
+H H HH HHH
+H   H    H
+HHHHHHHHHH

@@ -1,0 +1,109 @@
+# depslib dependency file v1.0
+1492372437 source:c:\users\custo\desktop\trabed\aluno.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"aluno.h"
+
+1492363836 c:\users\custo\desktop\trabed\aluno.h
+
+1492381817 source:c:\users\custo\desktop\trabed\main.c
+	<stdarg.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"aluno.h"
+	"banco.h"
+
+1492381353 source:c:\users\custo\desktop\trabed\banco.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"aluno.h"
+	"banco.h"
+
+1492378165 c:\users\custo\desktop\trabed\banco.h
+	"aluno.h"
+
+1492372437 source:c:\users\vinic\desktop\trabed\aluno.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"aluno.h"
+
+1492363836 c:\users\vinic\desktop\trabed\aluno.h
+
+1492390635 source:c:\users\vinic\desktop\trabed\banco.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"aluno.h"
+	"banco.h"
+
+1492378165 c:\users\vinic\desktop\trabed\banco.h
+	"aluno.h"
+
+1492391610 source:c:\users\vinic\desktop\trabed\main.c
+	<stdarg.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"aluno.h"
+	"banco.h"
+
+1492372437 source:c:\users\vinic\desktop\vinicius\trabed\aluno.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"aluno.h"
+
+1492363836 c:\users\vinic\desktop\vinicius\trabed\aluno.h
+
+1492390635 source:c:\users\vinic\desktop\vinicius\trabed\banco.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"aluno.h"
+	"banco.h"
+
+1492378165 c:\users\vinic\desktop\vinicius\trabed\banco.h
+	"aluno.h"
+
+1492393198 source:c:\users\vinic\desktop\vinicius\trabed\main.c
+	<stdarg.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"aluno.h"
+	"banco.h"
+
+1492372437 source:c:\users\nicob\desktop\estrutura de dados 1\programas\trabalho banco de dados com lista encadeada\trabalho marcelo custodio\aluno.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"aluno.h"
+
+1492363836 c:\users\nicob\desktop\estrutura de dados 1\programas\trabalho banco de dados com lista encadeada\trabalho marcelo custodio\aluno.h
+
+1492390635 source:c:\users\nicob\desktop\estrutura de dados 1\programas\trabalho banco de dados com lista encadeada\trabalho marcelo custodio\banco.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"aluno.h"
+	"banco.h"
+
+1492378165 c:\users\nicob\desktop\estrutura de dados 1\programas\trabalho banco de dados com lista encadeada\trabalho marcelo custodio\banco.h
+	"aluno.h"
+
+1492842731 source:c:\users\nicob\desktop\estrutura de dados 1\programas\trabalho banco de dados com lista encadeada\trabalho marcelo custodio\main.c
+	<stdarg.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"aluno.h"
+	"banco.h"
+

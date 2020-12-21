@@ -1,0 +1,20 @@
+Remove Nome=Chick Hicks;
+
+Insere Sheriff;1101010111;101.101.101-11;Direito;14/08/1910;5000.00;
+
+Insere Fillmore;58585858;058.058.058-58;Ufologia;01/10/1955;5000.00;
+
+Busca Nome=Ufologia;
+
+Busca Curso=Direito;
+
+Remove Nome = Fillmore ;
+
+Remove Curso = Direito;
+
+Remove Patrimonio < 9000.00;
+
+Busca CPF = 005.005.005-01;
+
+Busca Matricula= 1101010111;
+
